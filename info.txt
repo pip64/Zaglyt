@@ -1,10 +1,34 @@
-Agreement to Terms
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Leonard Blechschmidt, doing business as Zaglyt))0 ("Zaglyt))0", “we”, “us”, or “our”), concerning your access to and use of the Zaglyt))0 as well as any other media form, website, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Bot”). You agree that by accessing the Bot, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE BOT AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+Service Providers:
+pip64#3380
+TheBogler#8887
 
-Supplemental terms and conditions or documents that may be posted on the website from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use from time to time. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our Bot so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Bot after the date such revised Terms of Use are posted.
+Contact options:
+zaglyt.bot@gmail.com
 
-The information provided on the Bot is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Bot from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+Other contact options:
+Discord: pip64#3380
+TheBogler#8887
 
-The Bot is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Bot. You may not use the Bot in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
-The Bot is intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Bot. If you are a minor, you must have your parent or guardian read and agree to these Terms of Use prior to you using the Bot.
+
+
+Privacy Policy
+In terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR), is responsible for:
+
+pip64#3380
+TheBogler#8887
+
+Your rights as a data subject
+You can exercise the following rights at any time using the contact details provided by our data protection officer:
+
+Information about your data stored by us and their processing (Art. 15 GDPR),
+Correction of incorrect personal data (Art. 16 GDPR),
+Deletion of your data stored by us (Art. 17 GDPR),
+Restriction of data processing because we are not yet allowed to delete your data due to legal obligations (Art. 18 GDPR),
+Objection to the processing of your data by us (Art. 21 GDPR) and
+Data portability, if you have consented to the processing of data or have entered into a contract with us (Art. 20 GDPR).
+If you have given us your consent, you can revoke it at any time with future effect.
+
+You can complain to a supervisory authority at any time, such as the competent supervisory authority in your country of residence or the authority responsible for us.
+
+We use your data exclusively for the functionality of the bot.
